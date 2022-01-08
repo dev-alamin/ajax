@@ -1,0 +1,1 @@
+Hello from readme text file using ajax
