@@ -166,6 +166,9 @@ if (isset($_POST['submit-btn'])) {
                 XHR.send();
             }
         }
+
+        // Console log for git restore testing 
+        
     </script>
 </body>
 
